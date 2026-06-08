@@ -1,2 +1,5 @@
 # Reasonix agent workspace config
 .reasonix/
+
+# Local Reasonix configuration (environment-specific permissions, sandbox, etc.)
+reasonix.toml
